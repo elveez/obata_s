@@ -1368,17 +1368,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/screenshot.png": {
-		"ft": 32768,
-		"iS": 264,
-		"oA": 0,
-		"oAP": "/build/screenshot.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/search.php": {
 		"cB": 0,
 		"ft": 8192,
