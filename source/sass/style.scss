@@ -2,8 +2,6 @@
 @import "variables/bootstrap";
 
 
-
-
 @import "../../node_modules/bootstrap/scss/root";
 @import "../../node_modules/bootstrap/scss/mixins";
 @import "../../node_modules/bootstrap/scss/reboot";
@@ -40,6 +38,27 @@
 @import "../../node_modules/bootstrap/scss/utilities";
 @import "../../node_modules/bootstrap/scss/print";
 
+
+$obata-red:#EA1018 ;
+
 body{
-    background: $indigo;
+    a{
+        color:$obata-red;
+    }
+}
+.intro-text {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.navbar{
+    padding:0;
+}
+.sectionPadding{
+    padding:50px 0;
+}
+.sectionPaddingBottom{
+    padding-bottom: 50px;
+}
+.sectionPaddingTop{
+    padding-top: 50px;
 }

@@ -13,9 +13,8 @@
 
 	</div><!-- #content -->
 
-	<footer id="colophon" class="site-footer">
+	<footer id="colophon" class="site-footer sectionPadding">
 		<div class="site-info">
-		This is a test1234
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'obata_s' ) ); ?>">
 				<?php
 				/* translators: %s: CMS name, i.e. WordPress. */
