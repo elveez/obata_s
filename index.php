@@ -25,7 +25,7 @@ get_header();
 				?>
 				<div class="sectionPaddingBottom">
 					<div class="intro-text ">Welcome to Obata's new WordPress starter theme!</div>
-					<p>This is based on <a href="https://underscores.me/">underscores</a>, a theme built by the company behind WordPress. We added a few custom elements, including: Bootstrap and SASS. No need for a child theme, hack away!</p>
+					<p>This is based on <a href="https://underscores.me/">underscores</a>, a theme built by the company behind WordPress. We added a few custom elements, including: Bootstrap and SASS. No need for a child theme, hack away! <b>Please note</b>, this project was built using Local by Flywheel and CodeKit. </p>
 				</div>
 				
 				<?php
