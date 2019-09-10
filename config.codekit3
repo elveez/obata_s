@@ -13,103 +13,97 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/404.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/archive.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/archive.php",
-		"oF": 0
-		},
-	"/build": {
-		"ft": 65536,
 		"oA": 1,
-		"oAP": "/build/build",
-		"oF": 0
+		"oAP": "/build/archive.php",
+		"oF": 1
 		},
 	"/comments.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/comments.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/footer.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/footer.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/functions.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/functions.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/header.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/header.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/inc/custom-header.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/inc/custom-header.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/inc/customizer.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/inc/customizer.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/inc/jetpack.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/inc/jetpack.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/inc/template-functions.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/inc/template-functions.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/inc/template-tags.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/inc/template-tags.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/index.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/index.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/js/customizer.js": {
 		"bF": 0,
@@ -148,26 +142,26 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/languages/obata_s.pot",
-		"oF": 0
+		"oF": 1
 		},
 	"/languages/readme.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/languages/readme.txt",
-		"oF": 0
+		"oF": 1
 		},
 	"/layouts/content-sidebar.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/layouts/content-sidebar-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3
 		},
 	"/layouts/sidebar-content.css": {
@@ -175,24 +169,24 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/layouts/sidebar-content-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3
 		},
 	"/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/LICENSE",
-		"oF": 0
+		"oF": 1
 		},
 	"/node_modules": {
 		"ft": 65536,
 		"oA": 2,
-		"oAP": "/build/node_modules",
-		"oF": 0
+		"oAP": "/build/dist",
+		"oF": 2
 		},
 	"/node_modules/bootstrap/scss/_alert.scss": {
 		"aP": 1,
@@ -1319,17 +1313,17 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/page.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/phpcs.xml.dist": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/phpcs.xml.dist",
-		"oF": 0
+		"oF": 1
 		},
 	"/README.md": {
 		"cB": 0,
@@ -1340,9 +1334,9 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/README.html",
-		"oF": 0,
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -1354,43 +1348,54 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/readme.txt",
-		"oF": 0
+		"oF": 1
 		},
 	"/rtl.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/rtl-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3
+		},
+	"/screenshot.png": {
+		"ft": 32768,
+		"iS": 35137,
+		"oA": 1,
+		"oAP": "/build/screenshot.png",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"/search.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/search.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/sidebar.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/sidebar.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/single.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/single.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/sass/style.scss": {
 		"aP": 1,
@@ -1423,42 +1428,42 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/style-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3
 		},
 	"/template-parts/content-none.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/template-parts/content-none.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/template-parts/content-page.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/template-parts/content-page.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/template-parts/content-search.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/template-parts/content-search.php",
-		"oF": 0
+		"oF": 1
 		},
 	"/template-parts/content.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/template-parts/content.php",
-		"oF": 0
+		"oF": 1
 		}
 	},
 "hooks": [
@@ -1469,8 +1474,9 @@
 	"creationDate": 589472718.90742195,
 	"displayValue": "obata_s",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets-slime",
-	"iconImageWasSetByUser": 0
+	"iconImageName": "logo-wordpress",
+	"iconImageWasSetByUser": 1,
+	"lastBuiltDate": 589828398.15714896
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2935,7 +2941,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http://obatas.local",
+	"externalServerAddress": "http://obatascores.local",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
