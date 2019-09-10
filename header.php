@@ -23,7 +23,7 @@
 <body <?php body_class(); ?>>
 <div id="page" class="site container">
 
-	<header id="masthead" class="site-header">
+	<header id="masthead" class="site-header"> 
 
 	<nav class="navbar navbar-expand-lg navbar-light sectionPadding">
 		<a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>">obata_s</a>
